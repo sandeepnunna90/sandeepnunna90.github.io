@@ -85,7 +85,7 @@ h3.card-title { font-size: 16px; }
   .site-nav .nav-section { display: none; }
   .site-nav { gap: 8px 16px; }
 }
-/* On phones keep the header to one line: GitHub and LinkedIn stay in the footer. */
+/* On phones keep the header to one line: Home, Resume; GitHub and LinkedIn stay in the footer. */
 @media (max-width: 480px) {
   .site-nav .nav-ext { display: none; }
 }
